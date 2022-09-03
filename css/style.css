@@ -10,7 +10,6 @@
   color: white;
   text-align: center;
   padding: 10px;
-  /* margin-top: 10px; */
   float: left;
 }
 .header a {
@@ -178,17 +177,12 @@ button:hover {
 
 /****************** Our Stores  *************************/
 
-.stores {
-  background-color: black;
-}
-
 .stores .location {
   float: left;
-  padding: 1.1%;
+  padding: 0.3%;
   padding-top: 40px;
   margin: 15px;
   background-color: rgb(216, 237, 174);
-  padding: 1.5%;
   font-size: 20px;
   text-align: center;
   font-weight: 800;
@@ -205,7 +199,3 @@ hr {
   border-color: brown;
   border-style: outset;
 }
-
-/* html {
-  background-color: aqua;
-} */
